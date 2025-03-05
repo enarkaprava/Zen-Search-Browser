@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AccountManager
+comment1.params=
+comment1.target=AccountManager()
+comment2.params=username\ password
+comment2.target=void\ createAccount(java.lang.String,\ java.lang.String)
+comment3.params=username\ password
+comment3.target=boolean\ login(java.lang.String,\ java.lang.String)
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ToolBarUI
+comment1.params=browserUI
+comment1.target=ToolBarUI(BrowserUI)
+comment2.params=
+comment2.target=javafx.scene.layout.VBox\ getToolBar()
+comment3.params=
+comment3.target=javafx.scene.control.TextField\ getAddressBar()
+comment4.params=title\ message
+comment4.target=void\ showAlert(java.lang.String,\ java.lang.String)
+numComments=5

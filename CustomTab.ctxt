@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CustomTab
+comment1.params=title
+comment1.target=CustomTab(java.lang.String)
+comment2.params=
+comment2.target=javafx.scene.web.WebView\ getWebView()
+numComments=3

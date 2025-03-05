@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TabManager
+comment1.params=primaryStage\ browserUI
+comment1.target=TabManager(javafx.stage.Stage,\ BrowserUI)
+comment2.params=
+comment2.target=void\ addNewTab()
+comment3.params=
+comment3.target=CustomTab\ getActiveTab()
+comment4.params=
+comment4.target=javafx.scene.control.TabPane\ getTabPane()
+comment5.params=
+comment5.target=HistoryManager\ getHistoryManager()
+comment6.params=
+comment6.target=BookmarkManager\ getBookmarkManager()
+numComments=7

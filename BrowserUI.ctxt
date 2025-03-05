@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BrowserUI
+comment1.params=primaryStage
+comment1.target=BrowserUI(javafx.stage.Stage)
+comment10.params=title\ message
+comment10.target=void\ showAlert(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setupOnionizationQuestion()
+comment3.params=
+comment3.target=javafx.scene.layout.BorderPane\ getRoot()
+comment4.params=
+comment4.target=ToolBarUI\ getToolBarUI()
+comment5.params=
+comment5.target=TabManager\ getTabManager()
+comment6.params=
+comment6.target=SettingsUI\ getSettingsUI()
+comment7.params=
+comment7.target=ThemeManager\ getThemeManager()
+comment8.params=
+comment8.target=SearchEngineManager\ getSearchEngineManager()
+comment9.params=
+comment9.target=AccountManager\ getAccountManager()
+numComments=11

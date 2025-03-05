@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SettingsUI
+comment1.params=browserUI
+comment1.target=SettingsUI(BrowserUI)
+comment2.params=
+comment2.target=void\ showCreateAccountDialog()
+comment3.params=
+comment3.target=void\ showLoginDialog()
+comment4.params=title\ message
+comment4.target=void\ showAlert(java.lang.String,\ java.lang.String)
+numComments=5

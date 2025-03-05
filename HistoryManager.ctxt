@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HistoryManager
+comment1.params=
+comment1.target=HistoryManager()
+comment2.params=url
+comment2.target=void\ addHistoryEntry(java.lang.String)
+comment3.params=
+comment3.target=java.util.List\ getHistory()
+numComments=4

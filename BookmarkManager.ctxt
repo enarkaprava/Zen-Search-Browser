@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BookmarkManager
+comment1.params=
+comment1.target=BookmarkManager()
+comment2.params=url
+comment2.target=void\ addBookmark(java.lang.String)
+comment3.params=
+comment3.target=java.util.List\ getBookmarks()
+numComments=4

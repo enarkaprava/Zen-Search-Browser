@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SearchEngineManager
+comment1.params=
+comment1.target=SearchEngineManager()
+comment2.params=engine
+comment2.target=void\ setActiveSearchEngine(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getActiveSearchEngine()
+numComments=4
